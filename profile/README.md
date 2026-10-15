@@ -10,9 +10,10 @@ Agentic AI also supports multi-model integration capabilities provided by Spring
 
 ## Projects
 
-- [argi](https://github.com/agentic-ai-java/agentic-ai): core runtime, Agent Framework, Graph Core, Spring Boot starters, and embedded Studio.
-- [argi-extensions](https://github.com/agentic-ai-java/agentic-ai-extensions): optional integrations for model providers, A2A, Nacos, storage, tool execution, and graph nodes.
-- [argi-examples](https://github.com/agentic-ai-java/examples): runnable samples for chatbots, agents, graph workflows, and integrations.
+- [argi](https://github.com/agentic-ai-java/argi): core runtime, Agent Framework, Graph Core, Spring Boot starters, and embedded Studio.
+- [argi-extensions](https://github.com/agentic-ai-java/argi-extensions): optional integrations for model providers, A2A, Nacos, storage, tool execution, and graph nodes.
+- [argi-example](https://github.com/agentic-ai-java/argi-example): runnable samples for chatbots, agents, graph workflows, and integrations.
+- [Connect](https://github.com/agentic-ai-java/connect) AI protocol conversion across OpenAI Chat, Responses, Anthropic, and Gemini.
 
 ## Java Coordinates
 
